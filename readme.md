@@ -27,7 +27,7 @@ If we are running the application from IDE below steps needs to be followed
 - Verified whether user can only enter max 9 digits
 - Verify whether the user is able to perform arithmetic operation on decimal numbers
 
-##Note
+## Note
 - As the whole app is based on canvas. I am unable to extract text which would have helped me to place assertions check. But to manage this issue the suite can generate the screenshots for the respective test so that user can manually verify the results. We can solve this issue with OCR as well but due to time constraints this is he work around I came up.
 
 
