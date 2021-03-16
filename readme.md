@@ -29,7 +29,7 @@ If we are running the application from IDE below steps needs to be followed
 
 ## Note
 - As the whole app is based on canvas. I am unable to extract text which would have helped me to place assertions check. But to manage this issue the suite can generate the screenshots for the respective test so that user can manually verify the results. We can solve this issue with OCR as well but due to time constraints this is he work around I came up.
-- As I have used Mac OS to write these test. If in case we are running this test on Windows machine we need to change "/" with "\" in InvocationListener.java file line number 43
+- As I have used Mac OS to write these test. If in case we are running this test on Windows machine we need to change "/" with '\' in InvocationListener.java file line number 43
 
 
 
